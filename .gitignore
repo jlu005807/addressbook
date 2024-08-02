@@ -361,3 +361,55 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.vscode/
+
+# 编译输出
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ipch
+*.log
+*.sdf
+*.opensdf
+*.tlog
+*.cache
+*.ilk
+*.idb
+*.aps
+*.ncb
+*.opendb
+*.ipdb
+*.iobj
+*.res
+*.pch
+*.tmp
+*.bak
+*.db
+*.dll
+*.lib
+*.exp
+*.manifest
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# 解决方案和项目文件的备份
+*.sln.docstates
+*.sln.ide
+*.sln.docstates.suo
